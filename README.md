@@ -80,6 +80,23 @@ Required Dependencies:
 </dependency>
 ```
 
+Advantages and Disadvantages:
+-------------
+### Advantages :
+1. It is an Open source i.e. free
+2. It requires less coding compare to Apache Http Client.
+3. Easy parsing and validation of response in JSON and XML.
+4. It follows BDD keywords like given(), when(), then() which makes code readable and supports clean coding.
+5. It can be integrated with Maven and CICD.
+6. It can be easily integrated with other Java libraries like TestNG, Junit as Test Framework and Extent Report, Allure Report for reporting purpose.
+7. Supports JsonPath and XmlPath which helps in parsing JSON and XML response. Rest Assured by default integrates both.
+8. Quick assertion for status code and response time.
+
+### Disadvantages :
+1. Does not support testing of SOAP APIs explicitly.
+2. No inbuilt reporting. Serenity BDD is a good option here.
+3. Supports only Java Language.
+
 Reference Material:
 -------------
 
