@@ -66,7 +66,7 @@ HTTP Status Code:
 
 !['statuscode'](IntroductionImages/statuscode1.jpg)
 
-Required Dependencies:
+Required Dependency:
 -------------
 
 * RestAssured
