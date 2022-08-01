@@ -1,4 +1,4 @@
-!['RestAssured Logo'](Introduction Image\RestAssured Logo.png)
+!['RestAssured Logo'](IntroductionImages\RestAssuredLogo.png)
 
 ## Introduction
 
@@ -23,9 +23,9 @@ the restaurant's kitchen does the work and provides you some dishes.You don't kn
 
 Similarly, API is the messenger that delivers your request to the provider that you are requesting it from and then delivers the response back to you.
 
-!['Example'](Introduction Image\RestaurantExample.png)
+!['Example'](IntroductionImages\RestaurantExample.png)
 
-!['API Working'](Introduction Image\API working.png)
+!['API Working'](IntroductionImages\ApiWorking.png)
 ```sh
 Different API methods in RestAssured :
 ```
@@ -40,7 +40,7 @@ Different API methods in RestAssured :
  | PATCH  |                            Another method  used for partial updates of resources                             |
 
 
-!['API Methods'](Introduction Image\API methods.png)
+!['API Methods'](IntroductionImages\ApiMethods.png)
 ```sh
 Prerequisites:
 ```
@@ -66,7 +66,7 @@ HTTP Status Code
 ```
 * When a browser requests a service from a web server, an error may occur. This is list of HTTP status messages that might be returned.
 
-!['statuscode'](Introduction Image\statuscode1.jpg)
+!['statuscode'](IntroductionImages\statuscode1.jpg)
 
 ```sh
 Required Dependencies:
