@@ -5,30 +5,30 @@
 
   Step 1: To create a maven project click on New and then select Maven Project option.
 
-!['MavenP'](FrameworkImages\MavenP.png)
+!['MavenP'](FrameworkImages/MavenP.png)
 
   Step 2: Select Maven Project and click on Next.
 
   Step 3: Select "Create a Simple project" Checkbox and click Next.
 
-!['SimpleProject'](FrameworkImages\SimpleProject.png)
+!['SimpleProject'](FrameworkImages/SimpleProject.png)
 
   If you don't want to create a "Simple Project",then don't select "Create a Simple project".
   Click on Next and Below screen will appear.Select maven-archetype-quickstart option as shown below and click on Next.
 
-!['Archetype'](FrameworkImages\Archetype.png)
+!['Archetype'](FrameworkImages/Archetype.png)
 
   Step 4: Mention the "Group Id" and "Artifact Id" and click on Finish.
 
-!['GroupID'](FrameworkImages\GroupID.png)
+!['GroupID'](FrameworkImages/GroupID.png)
 
   Step 5: The structure of the project looks as shown in the below Image.
 
-!['Structure'](FrameworkImages\Structure.png)
+!['Structure'](FrameworkImages/Structure.png)
 
   Step 6: POM.xml will look like below image
 
-!['Pom'](FrameworkImages\Pom.png)
+!['Pom'](FrameworkImages/Pom.png)
   
 
 
@@ -54,12 +54,12 @@
 
   Step 5: Updated POM.xml will look like below Image.
 
-!['GroupID'](FrameworkImages\RestPOM.png)
+!['GroupID'](FrameworkImages/RestPOM.png)
 
   Step 6: Update Project to invoke dependencies. Right Click on Project and Goto Maven and select Update project
 or you can use shortcut key Alt+F5
 
-!['GroupID'](FrameworkImages\ProjectUpdate.png)
+!['GroupID'](FrameworkImages/ProjectUpdate.png)
 
 
 Assignment No 1
@@ -209,7 +209,7 @@ public class CucumberRunnerTest extends AbstractTestNGCucumberTests {
 4. After creating TestNg runner you need to convert your Project in TestNG. For converting Right click on project then click on TestNG then select convert TestNG
    It will create testng.xml file
 
-!['GroupID'](\FrameworkImages\ConvertTestNG.png)
+!['GroupID'](FrameworkImages/ConvertTestNG.png)
 
 ```XML
 <?xml version="1.0" encoding="UTF-8"?>
